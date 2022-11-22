@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/slowdev-blog/static/css/main.073c9b0a.css",
-    "main.js": "/slowdev-blog/static/js/main.faed8efc.js",
+    "main.css": "/slowdev-blog/static/css/main.311603dc.css",
+    "main.js": "/slowdev-blog/static/js/main.55f7af8d.js",
     "static/js/787.8e87b54f.chunk.js": "/slowdev-blog/static/js/787.8e87b54f.chunk.js",
     "static/media/logo.svg": "/slowdev-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/slowdev-blog/index.html",
-    "main.073c9b0a.css.map": "/slowdev-blog/static/css/main.073c9b0a.css.map",
-    "main.faed8efc.js.map": "/slowdev-blog/static/js/main.faed8efc.js.map",
+    "main.311603dc.css.map": "/slowdev-blog/static/css/main.311603dc.css.map",
+    "main.55f7af8d.js.map": "/slowdev-blog/static/js/main.55f7af8d.js.map",
     "787.8e87b54f.chunk.js.map": "/slowdev-blog/static/js/787.8e87b54f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.faed8efc.js"
+    "static/css/main.311603dc.css",
+    "static/js/main.55f7af8d.js"
   ]
 }
