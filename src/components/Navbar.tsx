@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../images/logo.svg'
 import { useGlobalContext } from '../context'
 
 const Navbar = () => {
@@ -23,11 +22,11 @@ const Navbar = () => {
     return <nav className="nav" onMouseOver={handleClose}>
         <div className="nav-center">
             <div className="nav-header">
-                <img src={logo} alt="stripe" className="nav-logo" />
+                {/* <img src={""} alt="🧑‍🚒" className="nav-logo" /> */}
             </div>
             <ul className="nav-links">
                 <li>
-                    <button className="link-btn" onMouseOver={displaySubmenu}>architecture</button>
+                    <button className="link-btn" onMouseOver={displaySubmenu}>articles</button>
                 </li>
                 <li>
                     <button className="link-btn" onMouseOver={displaySubmenu}>infrastructure</button>

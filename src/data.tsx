@@ -14,11 +14,11 @@ export type Sublink = {
 
 const sublinks: Sublink[] = [
   {
-    page: 'architecture',
+    page: 'articles',
     links: [
       { label: 'microservices', icon: <FaBookDead />, url: '/products' },
-      { label: 'patterns', icon: <FaBookDead />, url: '/products' },
-      { label: 'patterns', icon: <FaBookDead />, url: '/products' },
+      { label: 'design patterns', icon: <FaBookDead />, url: '/products' },
+      { label: 'practices', icon: <FaBookDead />, url: '/products' },
     ],
   },
   {

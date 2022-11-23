@@ -1,5 +1,4 @@
 import React, { FC } from 'react'
-import phoneImg from '../images/logo.svg'
 import { useGlobalContext } from '../context'
 
 const Hero: FC = () => {
@@ -15,10 +14,10 @@ const Hero: FC = () => {
                     have helped me building useful and reusable software as well as improvements in processes.
                     [Under construction 🚨]
                 </p>
-                <button className="btn">Start now</button>
+                {/* <button className="btn">Start now</button> */}
             </article>
             <article className="hero-images">
-                <img src={phoneImg} alt="phone" className="phone" />
+                {/* <img src={""} alt="📲" className="phone" /> */}
             </article>
         </div>
     </section>
