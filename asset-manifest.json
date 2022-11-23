@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/slowdev-blog/static/css/main.311603dc.css",
-    "main.js": "/slowdev-blog/static/js/main.55f7af8d.js",
+    "main.css": "/slowdev-blog/static/css/main.0b3ffc17.css",
+    "main.js": "/slowdev-blog/static/js/main.85110e5f.js",
     "static/js/787.8e87b54f.chunk.js": "/slowdev-blog/static/js/787.8e87b54f.chunk.js",
-    "static/media/logo.svg": "/slowdev-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/hero.svg": "/slowdev-blog/static/media/hero.acf1e00e9c9a661a4b0a.svg",
     "index.html": "/slowdev-blog/index.html",
-    "main.311603dc.css.map": "/slowdev-blog/static/css/main.311603dc.css.map",
-    "main.55f7af8d.js.map": "/slowdev-blog/static/js/main.55f7af8d.js.map",
+    "main.0b3ffc17.css.map": "/slowdev-blog/static/css/main.0b3ffc17.css.map",
+    "main.85110e5f.js.map": "/slowdev-blog/static/js/main.85110e5f.js.map",
     "787.8e87b54f.chunk.js.map": "/slowdev-blog/static/js/787.8e87b54f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.311603dc.css",
-    "static/js/main.55f7af8d.js"
+    "static/css/main.0b3ffc17.css",
+    "static/js/main.85110e5f.js"
   ]
 }
